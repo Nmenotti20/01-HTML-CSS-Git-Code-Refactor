@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+/*THIS IS THE BG COLOR FOR THE MAIN PAGE*/
 body {
     background-color: #d9dcd6;
 }
 
+/*THIS IS THE STYLING FOR THE MAIN "HORISEON" H1 HEADER*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +17,18 @@ body {
     color: #ffffff;
 }
 
+/*THIS IS MORE STYLING FOR THE "HORISEON" H1 MAIN HEADER*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/*THIS IS CHANGES TEXT COLOR OF THE LETTERS "SEO" IN THE "HORISEON" H1 MAIN HEADER*/
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/*THIS IS THE STYLING FOR THE SKIPLINKS IN THE HEADER*/
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,6 +55,7 @@ p {
     font-size: 16px;
 }
 
+/*THIS IS THE STYLING FOR THE MAIN BODY BACKGROUND AND LINKS THE LARGE MARKETING MEETING IMAGE*/
 .hero {
     height: 5px;
     width: 100%;
@@ -59,16 +65,19 @@ p {
     background-position: center;
 }
 
+/*THIS FLOATS THE SEO AND SMM PHOTOS TO THE LEFT IN THE BOX*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/*THIS FLOATS THE ORM PHOTO TO THE RIGHT IN THE BOX*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/*THIS STYLES THE CONTENT ON THE RIGHT COLUMN WITH THE BENEFITS*/
 .content {
     width: 75%;
     display: inline-block;
@@ -86,6 +95,7 @@ p {
     background-color: #2589bd;
 }
 
+/*THIS STYLES THE BENEFITS <P> TEXT*/
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -101,6 +111,7 @@ p {
     color: #ffffff;
 }
 
+/*THIS STYLES THE BENEFITS H3 HEADERS*/
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -116,6 +127,7 @@ p {
     text-align: center;
 }
 
+/*THIS STYLES THE 3 X IMAGES IN THE BENEFITS SECTION*/
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -134,6 +146,7 @@ p {
     max-width: 150px;
 }
 
+/*THIS STYLES THE SEO DIV ID*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -144,6 +157,7 @@ p {
     color: #ffffff;
 }
 
+/*THIS STYLES THE ORM DIV ID*/
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -153,6 +167,7 @@ p {
     color: #ffffff;
 }
 
+/*THIS STYLES THE SMM DIV ID*/
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -162,33 +177,40 @@ p {
     color: #ffffff;
 }
 
+/*THIS STYLES THE SEO IMAGE SIZE*/
 .search-engine-optimization img {
     max-height: 200px;
 }
 
+/*THIS STYLES THE ORM IMAGE SIZE*/
 .online-reputation-management img {
     max-height: 200px;
 }
 
+/*THIS STYLES THE SMM IMAGE SIZE*/
 .social-media-marketing img {
     max-height: 200px;
 }
 
+/*THIS STYLES THE SEO H2 HEADER WITH A FONT SIZE AND MARGIN*/
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/*THIS STYLES THE ORM H2 HEADER WITH A FONT SIZE AND MARGIN*/
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/*THIS STYLES THE SMM H2 HEADER WITH A MARGIN AND FONT SIZE*/
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/*THIS STYLES THE FOOTER DIV*/
 .footer {
     padding: 30px;
     clear: both;
@@ -196,6 +218,7 @@ p {
     text-align: center;
 }
 
+/*THIS STYLES THE H2 FOOTER FONT SIZE*/
 .footer h2 {
     font-size: 20px;
 }
