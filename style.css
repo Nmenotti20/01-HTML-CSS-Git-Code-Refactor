@@ -9,11 +9,12 @@ body {
     background-color: #d9dcd6;
 }
 
-/*THIS IS THE STYLING FOR THE MAIN "HORISEON" H1 HEADER*/
+/*THIS IS THE STYLING FOR THE MAIN "HORISEON" H1 HEADER - 
+updated the bg color to meet minimum contract criterium of at least 4.5:1 fr small tx */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
+    background-color: #0000FF;
     color: #ffffff;
 }
 
@@ -83,7 +84,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/*Updated the bg color to meet minimum contract criteria of at least 4.5:1 fr small tx*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -92,7 +93,7 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: #0000FF;
 }
 
 /*THIS STYLES THE BENEFITS <P> TEXT*/
@@ -146,34 +147,37 @@ p {
     max-width: 150px;
 }
 
-/*THIS STYLES THE SEO DIV ID*/
+/*THIS STYLES THE SEO DIV ID - updated the bg color to meet minimum contract criteria 
+of at least 4.5:1 fr small tx*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     width: 1010px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #0000FF;
     color: #ffffff;
 }
 
-/*THIS STYLES THE ORM DIV ID*/
+/*THIS STYLES THE ORM DIV ID -updated the bg color to meet minimum contract criteria 
+of at least 4.5:1 fr small tx */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #0000FF;
     color: #ffffff;
 }
 
-/*THIS STYLES THE SMM DIV ID*/
+/*THIS STYLES THE SMM DIV ID - updated the bg color to meet minimum contract criteria 
+of at least 4.5:1 fr small txt*/
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #0000FF;
     color: #ffffff;
 }
 
